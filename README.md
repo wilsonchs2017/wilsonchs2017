@@ -1,7 +1,7 @@
 <h1>Hi, I'm Wilson! <br/><a href="https://github.com/wilsonchs2017">Programmer</a>, <a href="https://www.linkedin.com/in/wilsonchs2017/">Data Scientist</a>
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
-<p align = "center">
+<div align = "center">
 <a href = "https://github.com/wilsonchs2017/Automatic_Number_Plate_Recognition_01_V1"> Automatic Number Plate Recognition-01 [Incomplete]</a>
 ·
 <a href = "https://github.com/wilsonchs2017/Churn_Prediction_01_V1"> Churn Prediction-01 </a>
@@ -11,7 +11,7 @@
 <a href = "https://github.com/wilsonchs2017/Machine_Translation_01_V1"> Machine Translation-01 </a>
 ·
 <a href = "https://github.com/wilsonchs2017/Sales_Forecasting_01_V1.0"> Sales Forecasting-01 </a>
-</p>
+</div>
 
 <h2> 🤳 Connect with me:</h2>
 
