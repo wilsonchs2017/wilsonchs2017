@@ -1,7 +1,7 @@
 <h1>Hi, I'm Wilson! <br/><a href="https://github.com/wilsonchs2017">Programmer</a>, <a href="https://www.linkedin.com/in/wilsonchs2017/">Data Scientist</a>
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
-<div align = "center">
+<div align = "left">
   
 ·<a href = "https://github.com/wilsonchs2017/Automatic_Number_Plate_Recognition_01_V1"> Automatic Number Plate Recognition-01 [Incomplete]</a>
   
