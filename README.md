@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wilson! <br/><a href="https://github.com/wilsonchs2017">Programmer</a>, <a href="https://www.linkedin.com/in/wilsonchs2017/">Data Scientist</a>
+<h1>Hi, I'm Wilson! <br/><a href="https://github.com/wilsonchs2017">Programmer</a>, <a href="https://www.linkedin.com/in/wilsonchs2017/">Data Analyst/Scientist</a>
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 <div align = "left">
